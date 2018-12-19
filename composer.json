@@ -15,5 +15,5 @@
             "App\\": "app/",
         "Laravist\\Hasher\\":"src/"
         }
-    },
+    }
 }
