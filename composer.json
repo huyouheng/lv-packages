@@ -1,0 +1,19 @@
+{
+    "name": "hyh/hasher",
+    "description": "description",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "huyouheng",
+            "email": "876697515@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/",
+        "Laravist\\Hasher\\":"src/"
+        }
+    },
+}
